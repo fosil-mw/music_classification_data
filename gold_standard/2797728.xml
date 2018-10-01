@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>440</ns:ID>
+    <ns:Relevance>1</ns:Relevance>
+    <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>2797728</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>687765</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/2797728</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Deichbrand - Festival 10.0 / Cuxhaven - Nordholz Bands &amp; Line Up
+Jan Delay, The Hives, The Prodigy
+
+17.07.2014 - 20.07.2014
+
+Alligatoah, Always Wanted War, Average Engines, Betontod, Blackmail, Booka Shade, Boy Hits Car, Caliban, Callejon, Chase &amp; Status, Cro, Das Pack, De Fofftig Penns, Die Apokalyptischen Reiter, Egotronic, Elektrizzl, Faun, Feine Sahne Fischfilet, Finuds, Frank Turner &amp; The Sleeping Souls, Gentleman, Guano Apes, Heaven Shall Burn, His Statue Falls, In Extremo, Intergalactic Lovers, Irie Révoltés, Jan Delay &amp; Disko No.1, Jupiter Jones, K.I.Z., Kafkas, Katzenjammer, La Confianza, Le Fly, Mad Caddies, Marteria, Massendefekt, Maximo Park, Mc Fitti, Millencolin, Moonbootica, Only Crime, Paul Kalkbrenner, Prinz Pi, Radio Havanna, Revolverheld, Russkaja, SDP, Sick Of It All, Subway To Sally, Terrorgruppe, The Exclusive, The Hives, The Intersphere, The Prodigy, Triggerfinger, Turbostaat, Westbam, Wirtz</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/2797728</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>The Hives</ns:Name>
+                    <ns:Name>The Prodigy</ns:Name>
+                    <ns:Name>Always Wanted War</ns:Name>
+                    <ns:Name>Average Engines</ns:Name>
+                    <ns:Name>Betontod</ns:Name>
+                    <ns:Name>Blackmail</ns:Name>
+                    <ns:Name>Booka Shade</ns:Name>
+                    <ns:Name>Boy Hits Car</ns:Name>
+                    <ns:Name>Caliban</ns:Name>
+                    <ns:Name>Callejon</ns:Name>
+                    <ns:Name>Chase &amp; Status</ns:Name>
+                    <ns:Name>Das Pack</ns:Name>
+                    <ns:Name>Die Apokalyptischen Reiter</ns:Name>
+                    <ns:Name>Egotronic</ns:Name>
+                    <ns:Name>Elektrizzl</ns:Name>
+                    <ns:Name>Faun</ns:Name>
+                    <ns:Name>Feine Sahne Fischfilet</ns:Name>
+                    <ns:Name>Finuds</ns:Name>
+                    <ns:Name>Guano Apes</ns:Name>
+                    <ns:Name>Heaven Shall Burn</ns:Name>
+                    <ns:Name>His Statue Falls</ns:Name>
+                    <ns:Name>In Extremo</ns:Name>
+                    <ns:Name>Intergalactic Lovers</ns:Name>
+                    <ns:Name>Irie Révoltés</ns:Name>
+                    <ns:Name>Jupiter Jones</ns:Name>
+                    <ns:Name>Kafkas</ns:Name>
+                    <ns:Name>Katzenjammer</ns:Name>
+                    <ns:Name>Mad Caddies</ns:Name>
+                    <ns:Name>Massendefekt</ns:Name>
+                    <ns:Name>Maximo Park</ns:Name>
+                    <ns:Name>Millencolin</ns:Name>
+                    <ns:Name>Only Crime</ns:Name>
+                    <ns:Name>Radio Havanna</ns:Name>
+                    <ns:Name>Revolverheld</ns:Name>
+                    <ns:Name>Russkaja</ns:Name>
+                    <ns:Name>Sick Of It All</ns:Name>
+                    <ns:Name>Subway To Sally</ns:Name>
+                    <ns:Name>Terrorgruppe</ns:Name>
+                    <ns:Name>The Exclusive</ns:Name>
+                    <ns:Name>The Intersphere</ns:Name>
+                    <ns:Name>Triggerfinger</ns:Name>
+                    <ns:Name>Turbostaat</ns:Name>
+                </ns:Band>
+            </ns:Band>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Westbam</ns:NamePart>
+                </ns:Musician>
+            </ns:DJ>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>De Fofftig Penns</ns:Name>
+                    <ns:Name>K.I.Z.</ns:Name>
+                    <ns:Name>La Confianza</ns:Name>
+                    <ns:Name>Le Fly</ns:Name>
+                    <ns:Name>Moonbootica</ns:Name>
+                    <ns:Name>Prinz Pi</ns:Name>
+                    <ns:Name>SDP</ns:Name>
+                </ns:Group>
+            </ns:Group>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Paul </ns:NamePart>
+                    <ns:NamePart>Kalkbrenner</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jan </ns:NamePart>
+                    <ns:NamePart>Delay</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gentleman</ns:NamePart>
+                </ns:Musician>
+            </ns:Musician>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Wirtz</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Frank </ns:NamePart>
+                    <ns:NamePart>Turner </ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>The </ns:NamePart>
+                    <ns:NamePart>Sleeping </ns:NamePart>
+                    <ns:NamePart>Souls</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jan </ns:NamePart>
+                    <ns:NamePart>Delay </ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Disko </ns:NamePart>
+                    <ns:NamePart>No</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Mc </ns:NamePart>
+                    <ns:NamePart>Fitti</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Alligatoah</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Cro</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marteria</ns:NamePart>
+                </ns:Musician>
+            </ns:Singer>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+        </ns:NamedEntity>
+    </ns:FaceBook>
+</ns:CueSchema>

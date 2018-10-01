@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/EventSchema">
+    <ns:ID>446</ns:ID>
+    <ns:Relevance>0</ns:Relevance>
+    <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:Paper xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>4438189</ns:ID>
+        <ns:Type>1</ns:Type>
+        <ns:TypeAsString>Internet</ns:TypeAsString>
+        <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+        <ns:Text>Seit 1992 wird das Mittelalterfest auf Schloss Weesenstein in Kooperation mit der Bertholdin-Produktion gestaltet. Dieses Jahr feiert Weesenstein bereits das 25. Jubiläum. Die Künstlerische Leiterin des Festes, Paula Herold, hat etwa 250 Mitwirkende engagiert, die die Geschichte des Weesensteins für die Besucher lebendig werden lassen. An 40 Ständen können die Besucher den Handwerkern wie Filzern, Schneidern, Waffenschmieden, Hornmachern, Töpfern, Kästnern, Drahtflechtern, Schmieden, Steinmetzen, Buchbindern, Lederern und Harfenbauern über die Schulter schauen. Tavernen, Fladenbäcker oder aber der Suppenkoch laden zum Verweilen ein. Für kleine Besucher werden spezielle Angebote vorbereitet. Ritterturniere mit großem Falkenturnier und Voglerschau (Vogelabrichtungen, Armbrusterei) und sonstige Attacken spielen um die Geschichte "Wie Dohna verloren ging" eine große Rolle und können täglich um 15 Uhr bestaunt werden. Besucher sind speziell am Sonnabend ab 18.30 Uhr zum Nachtprogramm mit Spielmannskunst, gewagter Artistik und Nachtfeuerturnier zum "Adelstanz - ein Stück Sachsengeschichte" eingeladen. Am Sonntag, 18.20 Uhr, und Montag, 17 Uhr, wird ein großes Schlussprogramm geboten. Der Eintritt zum Festgelände kostet 9,50, ermäßigt sechs Euro, die Familienkarte 25 Euro und ein Wochenendticket 15 Euro. Weesensteiner Mittelalterfest 14. bis 16. Mai, täglich ab 11 Uhr im Schlosspark Ein Stück Sachsengeschichte Weesenstein </ns:Text>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Paula </ns:NamePart>
+                    <ns:NamePart>Herold</ns:NamePart>
+                </ns:Person>
+            </ns:Person>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+        </ns:NamedEntity>
+    </ns:Paper>
+</ns:CueSchema>

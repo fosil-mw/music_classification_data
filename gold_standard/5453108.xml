@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>416</ns:ID>
+    <ns:Relevance>0</ns:Relevance>
+    <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>5453108</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>704946</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/5453108</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Halloween | Zaubershow mit dem verwirrten Professor Hallowahn 31. Oktober – Halloween | Wer denkt, dass er den Mut behält, kommt zum Gruseln in die Miniwelt
+Miniwelt noch bis 6. November täglich ab 9 Uhr geöffnet
+
+Es ist kein Zauber und keine Hexerei - Kinder (5 - 15 Jahre) in Kostüm haben am 31.10.2016 – den Eintritt frei.
+
+Gegen 15 Uhr entführt der verwirrte Professor Hallowahn mit seiner Zaubershow die Kinder in das Reich der Illusionen. Außergewöhnliche Experimente und allerlei schaurige Gestalten machen diese heiter-gruselige Mitmachshow zu etwas ganz Besonderem für Kleine und Große Miniweltbesucher. 
+Die Kinder sitzen aufgereiht vor der "Bühne" und verfolgen mit großen Augen ganz gespannt das Geschehen, rufen gemeinsam Zaubersprüche und sind voll dabei. Fledermäuse mit roten Augen, Spinnen und gerupfte Hühner kommen im Zelt "geflogen", ein Buch fängt an zu brennen und einige Kinder dürfen sogar selbst Zauberlehrling sein. Mit Einbruch der Dunkelheit findet der Lampionumzug mit anschließendem Schiffsfeuerwerk statt und die Miniwelt “knipst“ zum letzten Mal in dieser Saison das Licht an.
+
+Doch damit nicht genug! – über 100 Bauwerke und viele Attraktionen gibt es zu entdecken
+Das farbenprächtige Herbstflair der Miniwelt lädt zum Spaziergang um die Welt ein. Hier fährt man nicht mit dem Taxi nach Paris sondern geht zu Fuß. Von weitem sichtbar grüßt der 12 Meter hohe Eiffelturm als eines der über 100 imposanten Bauwerke die Besucher. Auf Knopfdruck kommt Bewegung ins Spiel - am Leuchtturm geht das Licht an, die Wuppertaler Schwebebahn fährt aus ihrem Bahnhof heraus, an der Frauenkirche erklingt Orgelmusik. Funkferngesteuerte Boote fahren auf der Nord- und Ostsee oder der Airbus A310 „startet und landet“ am Flughafen München. Die Spielfläche westlich vom Eiffelturm mit XXL „Mensch ärgere dich nicht“ lässt die Kinderherzen höher schlagen.
+Der Bau aus Originalmaterial, der einheitliche Maßstab (1:25) und die direkte Vergleichbarkeit der Bauwerke – dies begeistert immer wieder Groß und Klein beim Besuch der Miniwelt in Lichtenstein!
+
+der Ausflug in das Universum ist im Eintritt inbegriffen
+Im 360-Grad-Kino Minikosmos “fliegen“ die Besucher in bequemen drehbaren Stühlen bis ins Weltall. Verschiedene Programme - ob »Das kleine 1x1 der Sterne«, »Das Geheimnis der Bäume«, »Reise von der Erde ins Universum« oder »Die sieben Wunder« – lassen faszinierende Bilder an den 230 Quadratmetern “gewölbter Leinwand“ entstehen und man hat den Eindruck, man ist mittendrin im Geschehen. | Spielplan unter www.planetarium-lichtenstein.de
+
+Besucherservice:
+parken kostenfrei | Hunde dürfen mit auf „Weltreise“ | behindertengerecht | Gastronomie „Am Tor zur Welt“
+
+Öffnungszeiten: bis 6. November | täglich von 9 – 17 Uhr 
+(auf Grund der Umstellung auf die Winterzeit)
+
+Anfahrt
+A4 – Abfahrt Hohenstein-Ernstthal | A72 – Abfahrt Hartenstein
+Buslinien 251 und 152 Haltestelle Miniwelt
+
+Eintrittspreise Miniwelt inklusive digitale Show(s) im Minikosmos
+Erwachsene 10 € | Kinder ab 5 Jahre 8 € | Familien 30 € (2 Erw. bis zu 4 Kinder [5-15 J.])</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/5453108</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+    </ns:FaceBook>
+</ns:CueSchema>

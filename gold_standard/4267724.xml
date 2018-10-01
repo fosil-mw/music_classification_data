@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>185</ns:ID>
+    <ns:Relevance>1</ns:Relevance>
+    <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>4267724</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>774022</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/4267724</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Kikagaku Moyo w/ Shed Ballet - Präsentiert von TANZCAFÉ ILSES ERIKA und Eine Welt Aus Hack -
+
+Kikagaku Moyo / 幾何学模様 sind das, was Kraut und Psychedelic bereits Ende der Sechziger/Anfang Siebziger so unwiderstehlich gemacht hat. Verspult verspielt, freigeistig und melodiös, völlig verhuscht und punktgenau, perlend fluffig und volle Kanne auf die Zwölf. Im Prinzip könnte dieses japanische Dream Team tatsächlich direkt aus einem Früh-Siebziger Happening ins Hier und Jetzt katapultiert worden sein, so krass geben sie sich optisch und akustisch dieser musikalisch ultraspannenden Hochphase des Experimental-Psych-Kraut-Rock hin.
+
+Letztes Jahr hauten sie uns im Ilses Erika Biergarten von den Klappstühlen, nun beweihräuchern sie unseren Konzertkeller.
+
+So Ihr Hippies: let your hair down, throw your arms in the air and smile.
+
+Support erfahren Kikagaku Moyo von SHED BALLET, einer 2015 gegründeten Formation um drei fesche Mädels, die bereits in früheren Tagen gemeinsam musikalisch experimentierten und nun wieder zusammengefunden haben. Sie waren u.a. Teil von L.A. Love und Make New Maps und mögen es unkonventionell zu sein. Was das genau bedeutet? Wir werden es erfahren. Die Aufnahmen zu Ihrem Debüt sind im Kasten und erste Test-Gigs erfolgreich absolviert.
+
+Vor- und Aftershow bestreiten übrigens ein paar wilde Boys aus den Reihen von Sir Robin &amp; The Longbowmen. Sie bringen das perfekt passende rauschbefeuernde Vinyl mit.
+
+VVK-Link:
+
+https://www.tixforgigs.com/site/Pages/Shop/ShowEvent.aspx?ID=16009
+
+Homepage:
+
+http://kikagakumoyo.tumblr.com/
+
+Video:
+
+https://www.youtube.com/watch?v=k7x1iWSSMkc</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/4267724</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Kikagaku Moyo</ns:Name>
+                </ns:Band>
+            </ns:Band>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+        </ns:NamedEntity>
+    </ns:FaceBook>
+</ns:CueSchema>

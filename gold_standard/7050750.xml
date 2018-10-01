@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>91</ns:ID>
+    <ns:Relevance>0</ns:Relevance>
+    <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>7050750</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>537762</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/7050750</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Filmtournee unterwegs: Kurzfilmrolle 2016 im Hansafilmpalast KURZFILMROLLE 2016 - FEINSTE FANTASTISCHE FILMWERKE
+Die Filmtournee unterwegs tourt sehr erfolgreich seit 30 Jahren mit kurzen Filmen aus Schleswig-Holstein durch das ganze Land. Die beliebte Tournee vom Landesverband Jugend und Film(LJF) ist damit bundesweit wohl die längste und älteste Kurzfilminitiative, die es kontinuierlich seit mehr als drei Jahrzehnten gibt.
+Auch in diesem Jahr macht die Tour mit aktuellen preisgekrönten Kurzfilmen aus Schleswig-Holstein wieder Station an vielen Orten von Flensburg bis Hamburg. Die Kurzfilmrolle 2016 ist wieder eine besondere Mischung aus wunderbaren Werken von Filmschaffenden aus dem Land, die eine große Bandbreite von komischen, fantastischen poetischen und sehenswerten Geschichten zeigt. Der international erfolgreiche und mehrfach preisgekrönte Film „Eimersee“ über die skurrile Erfindung eines Sees läuft ebenso im aktuellen Programm wie der liebevoll gestaltete und berührende Animationsfilm „Planet Willi“.
+Mit dabei ist auch der witzig-absurde Publikumsliebling „Wolfgäng“, der von dem unbekümmerten Helden der Geschichte erzählt, der alles tut um sein Moped zu retten. Das Filmteam erhielt dafür beim diesjährigen „Nur 48 Stunden-Wettbewerb“ gleich zwei Preise. Eine Musicalparodie, ein sehr eindrucksvolles dokumentarisches Portrait sowie weitere originelle Kurzfilme sind auf der neuen Rolle zu sehen. Zum 30 jährigen Jubiläum präsentiert die Filmtournee unterwegs wieder ausgezeichnete Filmperlen, die eindrucksvoll das Spektrum der filmischen Talente aus Schleswig-Holstein unter Beweis stellen.
+Die Filmteams kommen aus Schleswig-Holstein, oft sind die Filmprojekte hier im Land realisiert worden, viele mit kleinem Budget, aber großen Engagement, meistens mit der Unterstützung vom Landesverband Jugend und Film(LJF) und/oder der Filmwerkstatt Kiel der Filmförderung Hamburg/Schleswig-Holstein(FFHSH).
+Moderiert und begleitet wird die Kurzfilmrolle wie immer in der Hansa48 von Torben Sachert, der viel über die Filme und ihre Hintergründe zu berichten weiß und natürlich wieder das beliebte Filmquiz sowie kleine Überraschungen im Tourgepäck dabei hat.(Programmlänge ca. 100min)
+
+Eintritt: 5,-</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/7050750</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Filmwerkstatt </ns:NamePart>
+                    <ns:NamePart>Kiel</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Filmförderung </ns:NamePart>
+                    <ns:NamePart>Hamburg</ns:NamePart>
+                    <ns:NamePart>Schleswig-Holstein</ns:NamePart>
+                    <ns:NamePart>FFHSH</ns:NamePart>
+                </ns:Musician>
+            </ns:Organist>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Torben </ns:NamePart>
+                    <ns:NamePart>Sachert</ns:NamePart>
+                </ns:Person>
+            </ns:Person>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Hansafilmpalast</ns:Name>
+                    <ns:Name>Schleswig-Holstein</ns:Name>
+                    <ns:Name>Flensburg</ns:Name>
+                    <ns:Name>Hamburg</ns:Name>
+                    <ns:Name>Hansa48</ns:Name>
+                </ns:Location>
+            </ns:Locality>
+        </ns:NamedEntity>
+    </ns:FaceBook>
+</ns:CueSchema>

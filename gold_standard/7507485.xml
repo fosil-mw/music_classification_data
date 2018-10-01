@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>236</ns:ID>
+    <ns:Relevance>0</ns:Relevance>
+    <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>7507485</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>692538</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/7507485</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Einweihung Marktschwärmerei Isla Die Agora Marktschwärmerei zieht um ins wunderbare Isla Coffee und wird zur "Marktschwärmerei Isla"! 
+
+Bei den Marktschwärmern könnt ihr direkt vom Erzeuger fair und transparent regionale Produkte einkaufen. Zur Abholung einmal in der Woche gebt ihr euren Bauern die Hand und erfahrt, wie euer Essen auf den Teller kommt.
+
+Um von den folgenden Produzenten einzukaufen meldet euch online bei unserer Schwärmerei an und bestellt sowie bezahlt online unter folgendem link:
+https://marktschwaermer.de/de-DE/assemblies/83
+um eure Produkte dann am Mittwoch zur Eröffnung abzuholen!
+
+Ausnahmerweise sind zur Eröffnung fast alle unserer Produzenten mit dabei: 
+Solidarische Landwirtschaft Luch-Gärtnerei mit biologischen Obst und Gemüse sowie Säften und Eingemachtes
+endorphina Backkunst GmbH mit Brot und Gebäck aus traditionellem Bäckerhandwerk. Mit eigenem Natursauerteig und dem Verzicht von industriellen Maschinen zaubern sie höchste Qualität mit Materialien aus biologischem Anbau!
+Wie immer könnt ihr bis Montag Abend auf der Plattform alle produkte auswählen und für Mittwoch bestellen. Wir freuen uns wahnsinnig die Frühlingssaison mit euch einzuleuten!
+Glut &amp; Späne direkt aus der Uckermark räuchert uns Micha den wohl leckersten Fisch in ganz Berlin! Und nachhaltige Fischerei unsterstützt ihr damit auch noch.
+WeideEi Johannes Eier sind eine Wucht und wohl die beste Art und Weise Eier zu produzieren! In mobilen Ställen haben seine Hennen immer frische Kräuter zu picken und genügen Auslauf um stramme Beinchen zu trainieren. Zusätzlich sind es zweinutzungshühner, ab jetzt gibt es also auch frisches Hühnerfleisch von der seltenen Bressé Rasse!
+100pct. Reza bringt uns seine hochwertigen Olivenöle sowie Tees und Oliven aus Griechenland!
+Kräuter Max Berlin Max ist neu dabei und stellt selber Senf und Butter mit wilden Kräutern und Blüten her!
+Meta Mate bestellt bei Meta Mate echten mate Tee sowie Roibos neu im Sortiment
+Potsdamer SauenHain auch neu bei unseres Schwärmerei! Deren Schweine "leben ganzjährig auf der Weide; können wühlen, suhlen und sich dabei vielseitig ernähren. Viel Bewegung und natürliches Futter läßt die Schweine langsamer wachsen, resultiert aber in besser Fleischqualität.
+
+
+Seid zur Einweihung dabei, bei der ihr unsere regionalen Produzenten persönlich kennenlernen könnt, probiert das ein oder andere Produkt und stoßt mit uns zur Neueröffnung an!</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/7507485</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Max</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Johannes</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Micha</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Reza</ns:NamePart>
+                </ns:Person>
+            </ns:Person>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Isla Coffee</ns:Name>
+                    <ns:Name>Uckermark</ns:Name>
+                    <ns:Name>Berlin</ns:Name>
+                </ns:Location>
+            </ns:Locality>
+        </ns:NamedEntity>
+    </ns:FaceBook>
+</ns:CueSchema>

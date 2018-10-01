@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/EventSchema">
+    <ns:ID>4</ns:ID>
+    <ns:Relevance>1</ns:Relevance>
+    <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:Paper xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>2213248</ns:ID>
+        <ns:Type>1</ns:Type>
+        <ns:TypeAsString>Internet</ns:TypeAsString>
+        <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+        <ns:Text>Sa. 20 Uhr Kammerchor St. Marien St. Marienkirche, Stiftstraße 4, Minden, So. 18 Uhr </ns:Text>
+    </ns:Paper>
+</ns:CueSchema>

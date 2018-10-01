@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>444</ns:ID>
+    <ns:Relevance>0</ns:Relevance>
+    <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>3170515</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>453418</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/3170515</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Messe ZUKUNFT HIER! „ZUKUNFT HIER !“ unter diesem Motto vereint die 14. Bildungsmesse wieder alle relevanten Themen rund um Bildung und Beruf. Sie gibt einen wichtigen Impuls zur Berufsorientierung und der beruflichen Entwicklung in der Region. Der demographische Wandel zwingt zum Umdenken, einerseits fehlen den Unternehmen Fachkräfte andererseits haben qualifizierte junge Leute eine Vielzahl an Möglichkeiten bei der Wahl ihres Ausbildungs-, Studien- oder Arbeitsplatzes. Wir bieten den Unternehmen eine Plattform zur gezielten Suche nach qualifizierten Nachwuchs- und Fachkräften. Qualifizierte Mitarbeiter sind ein entscheidender Erfolgsfaktor für ein Unternehmen. Der Erwerb von Zusatzqualifikationen gewinnt zur Sicherung der beruflichen Leistungs- und Handlungsfähigkeit zunehmend an Bedeutung.
+
+Die 14. „ZUKUNFT HIER !“ bringt Betriebe, Institutionen, private Bildungseinrichtungen und Hochschulen mit Schülern, Studenten und Arbeitssuchenden aus der Region zusammen.
+
+Seien auch Sie dabei, präsentieren Sie Ihr Unternehmen und knüpfen Sie wichtige Kontakte. Nutzen Sie das Vortragsprogramm, um über Bildungswege und Berufsbilder zu informieren.
+
+Öffnungszeiten: täglich 10.00 -17.00 Uhr
+
+EINTRITT FREI
+
+Auch 2015 wird es wieder die SCHÜLERKONTAKTBÖRSE “meet your job” geben. Kleine Firmenkontaktstände für koordinierte Erstgespräche können von regionalen klein- und mittelständischen Unternehmen aus Industrie, Handwerk und dem Dienstleistungssektor genutzt werden. Die Kontaktbörse bietet eine Plattform zur Vermittlung von Schülerpraktika und Ausbildungsplätzen und ergänzt das bisherige Angebot der Bildungsmesse sinnvoll.
+
+Sie führt Angebot und Nachfrage auf dem regionalen Arbeitsmarkt noch besser zusammen und lenkt die Aufmerksamkeit der Schüler und Schülerinnen auf die Chancen vor Ort.
+Bitmap in Kontaktbörse
+
+Jugendweihe-Modenschau
+Schüler, die demnächst ihre Jugendweihe feiern, haben übrigens noch einen guten Grund mehr, der „ZUKUNFT HIER!“ einen Besuch abzustatten. An beiden Messetagen jeweils 13 Uhr und 15 Uhr wird es die trendige Jugendweihemodenschau geben. Diese erfolgt in Zusammenarbeit mit dem Sächsischen Verband für Jugendarbeit und Jugendweihe e.V. und dem City-Point Zwickau.</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/3170515</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+    </ns:FaceBook>
+</ns:CueSchema>

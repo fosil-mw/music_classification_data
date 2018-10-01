@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns:CueSchema xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+    <ns:ID>115</ns:ID>
+    <ns:Relevance>1</ns:Relevance>
+    <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsEvent>1</ns:IsEvent>
+    <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+        <ns:ID>2128818</ns:ID>
+        <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>580358</ns:ID>
+            <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:ID>672</ns:ID>
+                <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
+                <ns:SourceKey>facebook_bd_do</ns:SourceKey>
+                <ns:Type>1</ns:Type>
+                <ns:TypeAsString>Internet</ns:TypeAsString>
+                <ns:CirculationArea xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            </ns:Source>
+            <ns:URL>www.facebook.com/events/2128818</ns:URL>
+            <ns:ImportDate>2016-09-10T15:28:44+02:00</ns:ImportDate>
+            <ns:Text>Liederabend Herbstgefühl Eintritt: 15,- Euro
+
+
+
+In Neubrandenburg (Mecklenburg-Vorpommern) geboren, begann die Altistin Britta Schwarz ihr Gesangsstudium zunächst an der Hochschule für Musik "Hanns Eisler" in Berlin bei Christa Niko, wechselte aber später nach Dresden zu Prof. Christian Elßner und Prof. Hartmut Zabel. Anschließend erhielt Sie ein vierjähriges Engagement am Studio der Staatsoper Dresden (Semper-Oper). Bei internationalen Wettbewerben in Karlovy Vary (Antonin Dvorak), Zwickau (Robert Schumann) und London (Walter Gruner) errang sie Preise. In zahlreichen Konzerten mit renommierten Orchestern u.a. den Berliner Philharmonikern, der Staatskapelle Dresden, der Dresdner Philharmonie, dem Concertgebouworkest Amsterdam, den Stuttgarter Philharmonikern und der Academy of St. Martin in the Fields konnte sie ihr umfangreiches Repertoire mit großem Erfolg zur Geltung bringen. Dabei arbeitet sie mit so namhaften Dirigenten wie Philippe Herreweghe, Milan Horvat, Michel Plasson, Helmuth Rilling, Jörg-Peter Weigle, Bruno Weil und Marek Janowski. Große Erfolge feierte Britta Schwarz mit dem Israel Philharmonic Orchestra unter Peter Schreier und Gustavo Dudamel. Eine besondere Vorliebe für das romantische Lied verbindet Britta Schwarz mit dem Dresdner Pianisten Camillo Radicke, mit dem sie eng zusammenarbeitet. Seit vielen Jahren widmet sich Britta Schwarz ganz intensiv der Barockmusik. Dies führte zu vielen Begegnungen mit bedeutenden Barock-Ensembles, z.B. dem Freiburger Barockorchester Cantus Cölln, dem Ensemble Musica Antiqua Köln, sowie der Batzdorfer Hofkapelle, der Akademie für Alte Musik Berlin und des Rias Kammerchores und einer sehr anregenden und prägenden musikalischen Zusammenarbeit mit so renommierten Musikern wie Reinhard Göbel, Marcus Creed, Pierre Cao, Gustav Leonhardt, Ludger Remy und Hans-Christoph Rademann.Seit einigen Jahren verbindet Britta Schwarz eine Lehrtätigkeit mit der Hochschule für Musik "Carl Maria von Weber" in Dresden, wo sie u.a.den Interpretationskurs für Oratorium leitet. Im April 2010 wurde sie als Gastprofessorin für Gesang an die Hochschule für Musik "Hanns Eisler" Berlin berufen.
+
+Daniel Heide, 1976 in Weimar geboren, begann er seine pianistische Ausbildung im Alter von 5 Jahren. Schon während seines Studiums richtete er seinen Fokus auf kammer- musikalisches Musizieren und das Begleiten von Sonaten- und Lieder- abenden. Zahlreiche Konzerte und Verpflichtungen zu Orchesterkonzerten, Sonaten- und Liederabenden in vielen deutschen Städten, in Österreich, der Schweiz, Frankreich, Schottland, Italien, Spanien, Tschechien und Island folgten. Seine Partner dabei waren Künstler wie Antje Weithaas, Tabea Zimmermann, Julian Steckel, Isang Enders, Dragos Manza, Feng Ning, Gernot Süssmuth, Hye Yoon Park, Alexander Kniazev, Benoit Fromanger. Mit Gidon Kremer und Marta Sudraba hat er das Concerto Grosso No. 2 von Alfred Schnittke aufgeführt. Die Arbeit mit Sängern nimmt in seiner Konzerttätigkeit einen besondern Platz ein.Schon früh hat er Anregungen in Meisterkursen bekommen, u.a. bei Dietrich Fischer-Dieskau, Thomas Quasthoff, Christa Ludwig und Francoise Pollet. Als Liedbegleiter widmet er sich seit 2011 in erster Linie der von ihm begründeten Reihe Der lyrische Salon, die im KulturSchloss Ettersburg unter Mitwirkung von Roman Trekel, Stella Doufexis, Britta Schwarz, Ruth Ziesak, Tobias Berndt, Hanns Zischler und Lothar Odinius im letzten Jahr eine überaus erfolgreiche erste Saison erlebte. Der Franz-Liszt-Preisträger unterrichtet an den Hochschulen von Berlin (»Hanns Eisler«) und Weimar (»Franz Liszt«) Künstlerische Liedgestaltung, Kammermusik und Korrepetition.
+
+Britta Schwarz singt Lieder von J. Brahms, R. Strauß sowie eine Auswahl aus den Jugendliedern von A. Berg
+
+Am Klavier: Daniel Heide</ns:Text>
+        </ns:Document>
+        <ns:EventDataEs xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:ID>www.facebook.com/events/2128818</ns:ID>
+            <ns:EventData xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Name>Event Name</ns:Name>
+                <ns:SourceID>311041069276392</ns:SourceID>
+                <ns:StartDate>2016-11-06T20:00:00+01:00</ns:StartDate>
+                <ns:EndDate>2016-11-06T23:00:00+01:00</ns:EndDate>
+                <ns:Cancelled>false</ns:Cancelled>
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Event Location</ns:Name>
+                    <ns:CountryLongName>Germany</ns:CountryLongName>
+                    <ns:City>Berlin</ns:City>
+                    <ns:PostCode>53721</ns:PostCode>
+                    <ns:Street>Markt 46</ns:Street>
+                    <ns:Coordinate xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Latitude>50.7963</ns:Latitude>
+                        <ns:Longitude>7.20632</ns:Longitude>
+                    </ns:Coordinate>
+                    <ns:Category>Museum/art gallery</ns:Category>
+                    <ns:Phone>02241-1027410</ns:Phone>
+                    <ns:Website>http://www.website.de</ns:Website>
+                    <ns:Facebook>https://www.facebook.com/pages/test</ns:Facebook>
+                </ns:Location>
+                <ns:Organizer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Berlin Test Organizer</ns:Name>
+                    <ns:Description>The Description of organizer 
+
+</ns:Description>
+                    <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                        <ns:Name>Orgnizer Name</ns:Name>
+                        <ns:Description>The Description of organizer 
+
+</ns:Description>
+                        <ns:CountryLongName>Germany</ns:CountryLongName>
+                        <ns:City>Organizer City</ns:City>
+                        <ns:PostCode>53721</ns:PostCode>
+                        <ns:Street>Griesgasse 11</ns:Street>
+                        <ns:Category>Stadium</ns:Category>
+                        <ns:Phone>02241/10275-11</ns:Phone>
+                        <ns:Website>http://www.berlin.organizer.de</ns:Website>
+                        <ns:Facebook>https://www.facebook.com/berlin.organizer</ns:Facebook>
+                    </ns:Location>
+                </ns:Organizer>
+                <ns:SourceDate>2016-09-08T21:28:50.479984+02:00</ns:SourceDate>
+            </ns:EventData>
+        </ns:EventDataEs>
+        <ns:FoundInfo xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:EndEventDate>2018-03-28T18:28:38</ns:EndEventDate>
+            <ns:EventDate>2018-03-17T18:28:38</ns:EventDate>
+            <ns:FoundEventDatesCount>10</ns:FoundEventDatesCount>
+            <ns:EntranceFees>15.</ns:EntranceFees>
+            <ns:EventNames>EventNames</ns:EventNames>
+            <ns:ExtLocation>Location Info.</ns:ExtLocation>
+            <ns:ExtLocationeOwner>Location Owner</ns:ExtLocationeOwner>
+            <ns:ExtLocationCategory>1</ns:ExtLocationCategory>
+            <ns:ExtLocationCategoryType>Museum</ns:ExtLocationCategoryType>
+            <ns:ExtLocationGooglePlacesIds>foundNutzungsorteGooglePlacesIds</ns:ExtLocationGooglePlacesIds>
+            <ns:ExtLocationFacebookPageIdsAsString>foundNutzungsorteFacebookPageIdsAsString</ns:ExtLocationFacebookPageIdsAsString>
+            <ns:ExtLocationAddress>foundNutzungsorteAddress</ns:ExtLocationAddress>
+            <ns:ExtLocationTelephoneNumber>1334538</ns:ExtLocationTelephoneNumber>
+            <ns:ExtLocationEmailAddresse>foundPartnersName</ns:ExtLocationEmailAddresse>
+            <ns:ExtLocationWebsite>foundPartnersNegativStatusAsString</ns:ExtLocationWebsite>
+            <ns:FoundPartner>2018-04-01T18:28:38</ns:FoundPartner>
+            <ns:FoundPartnersAddress>foundPartnersNotes</ns:FoundPartnersAddress>
+        </ns:FoundInfo>
+        <ns:NamedEntity xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+            <ns:Band xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:CarnivalClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cellist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marta </ns:NamePart>
+                    <ns:NamePart>Sudraba</ns:NamePart>
+                </ns:Musician>
+            </ns:Cellist>
+            <ns:Chorus xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Milan </ns:NamePart>
+                    <ns:NamePart>Horvat</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Peter </ns:NamePart>
+                    <ns:NamePart>Schreier</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jörg</ns:NamePart>
+                    <ns:NamePart>Peter </ns:NamePart>
+                    <ns:NamePart>Weigle</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Bruno </ns:NamePart>
+                    <ns:NamePart>Weil</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marek </ns:NamePart>
+                    <ns:NamePart>Janowski</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gustavo </ns:NamePart>
+                    <ns:NamePart>Dudamel</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Michel </ns:NamePart>
+                    <ns:NamePart>Plasson</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Helmuth </ns:NamePart>
+                    <ns:NamePart>Rilling</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Philippe </ns:NamePart>
+                    <ns:NamePart>Herreweghe</ns:NamePart>
+                </ns:Musician>
+            </ns:Conductor>
+            <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Daniel </ns:NamePart>
+                    <ns:NamePart>Heide</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Camillo </ns:NamePart>
+                    <ns:NamePart>Radicke</ns:NamePart>
+                </ns:Musician>
+            </ns:Interpreter>
+            <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Tabea </ns:NamePart>
+                    <ns:NamePart>Zimmermann</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gustav </ns:NamePart>
+                    <ns:NamePart>Leonhardt</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Feng </ns:NamePart>
+                    <ns:NamePart>Ning</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Pierre </ns:NamePart>
+                    <ns:NamePart>Cao</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Isang </ns:NamePart>
+                    <ns:NamePart>Enders</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Hye </ns:NamePart>
+                    <ns:NamePart>Yoon </ns:NamePart>
+                    <ns:NamePart>Park</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Hanns </ns:NamePart>
+                    <ns:NamePart>Zischler</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Alexander </ns:NamePart>
+                    <ns:NamePart>Kniazev</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Ludger </ns:NamePart>
+                    <ns:NamePart>Remy</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gernot </ns:NamePart>
+                    <ns:NamePart>Süssmuth</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Dragos </ns:NamePart>
+                    <ns:NamePart>Manza</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Benoit </ns:NamePart>
+                    <ns:NamePart>Fromanger</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Reinhard </ns:NamePart>
+                    <ns:NamePart>Göbel</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Julian </ns:NamePart>
+                    <ns:NamePart>Steckel</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Hans-Christoph </ns:NamePart>
+                    <ns:NamePart>Rademann</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marcus </ns:NamePart>
+                    <ns:NamePart>Creed</ns:NamePart>
+                </ns:Musician>
+            </ns:Musician>
+            <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Ruth </ns:NamePart>
+                    <ns:NamePart>Ziesak</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Thomas </ns:NamePart>
+                    <ns:NamePart>Quasthoff</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Lothar </ns:NamePart>
+                    <ns:NamePart>Odinius</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Dietrich </ns:NamePart>
+                    <ns:NamePart>Fischer-Dieskau</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Tobias </ns:NamePart>
+                    <ns:NamePart>Berndt</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Francoise </ns:NamePart>
+                    <ns:NamePart>Pollet</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Christa </ns:NamePart>
+                    <ns:NamePart>Ludwig</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Britta </ns:NamePart>
+                    <ns:NamePart>Schwarz</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Stella </ns:NamePart>
+                    <ns:NamePart>Doufexis</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Roman </ns:NamePart>
+                    <ns:NamePart>Trekel</ns:NamePart>
+                </ns:Musician>
+            </ns:Singer>
+            <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:SongWriter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:StringPlayer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Antje </ns:NamePart>
+                    <ns:NamePart>Weithaas</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gidon </ns:NamePart>
+                    <ns:NamePart>Kremer</ns:NamePart>
+                </ns:Musician>
+            </ns:StringPlayer>
+            <ns:Carilloner xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Franz </ns:NamePart>
+                    <ns:NamePart>Liszt</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Brahms</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Strauß</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Berg</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Carl </ns:NamePart>
+                    <ns:NamePart>Maria </ns:NamePart>
+                    <ns:NamePart>von </ns:NamePart>
+                    <ns:NamePart>Weber</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Alfred </ns:NamePart>
+                    <ns:NamePart>Schnittke</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Hanns </ns:NamePart>
+                    <ns:NamePart>Eisler</ns:NamePart>
+                </ns:Musician>
+            </ns:Composer>
+            <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Tenor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Soprano xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Album xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Song xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Alto xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Musical xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
+            <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Christa </ns:NamePart>
+                    <ns:NamePart>Niko</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Christian </ns:NamePart>
+                    <ns:NamePart>Elßner</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Hartmut </ns:NamePart>
+                    <ns:NamePart>Zabel</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Antonin </ns:NamePart>
+                    <ns:NamePart>Dvorak</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Robert </ns:NamePart>
+                    <ns:NamePart>Schumann</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Walter </ns:NamePart>
+                    <ns:NamePart>Gruner</ns:NamePart>
+                </ns:Person>
+            </ns:Person>
+            <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                <ns:Location xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:Name>Neubrandenburg</ns:Name>
+                    <ns:Name>Berlin</ns:Name>
+                    <ns:Name>Dresden</ns:Name>
+                    <ns:Name>Karlovy Vary</ns:Name>
+                    <ns:Name>Zwickau</ns:Name>
+                    <ns:Name>London</ns:Name>
+                    <ns:Name>Weimar</ns:Name>
+                    <ns:Name>Österreich</ns:Name>
+                    <ns:Name>Schweiz</ns:Name>
+                    <ns:Name>Frankreich</ns:Name>
+                    <ns:Name>Schottland</ns:Name>
+                    <ns:Name>Italien</ns:Name>
+                    <ns:Name>Spanien</ns:Name>
+                    <ns:Name>Tschechien</ns:Name>
+                    <ns:Name>Island</ns:Name>
+                </ns:Location>
+            </ns:Locality>
+        </ns:NamedEntity>
+    </ns:FaceBook>
+</ns:CueSchema>
