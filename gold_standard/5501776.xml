@@ -3,11 +3,13 @@
     <ns:ID>106</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.886</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>5501776</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>329974</ns:ID>
+            <ns:ID>683604</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -97,11 +99,11 @@
             <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Sven</ns:NamePart>
+                    <ns:NamePart>Steve</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Steve</ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Sven</ns:NamePart>
                 </ns:Musician>
             </ns:DJ>
             <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

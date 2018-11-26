@@ -3,11 +3,13 @@
     <ns:ID>444</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.914</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>3170515</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>453418</ns:ID>
+            <ns:ID>405759</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>

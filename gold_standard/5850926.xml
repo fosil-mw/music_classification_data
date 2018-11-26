@@ -3,11 +3,13 @@
     <ns:ID>243</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.886</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>5850926</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>564284</ns:ID>
+            <ns:ID>694368</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -134,12 +136,12 @@ Veranstalter: Heinrich-Heine-Institut, Heinrich-Heine-Gesellschaft und Maxhaus</
             <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Felix </ns:NamePart>
-                    <ns:NamePart>Mendelssohn</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Robert </ns:NamePart>
                     <ns:NamePart>Schumann</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Felix </ns:NamePart>
+                    <ns:NamePart>Mendelssohn</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Felix </ns:NamePart>
@@ -160,16 +162,16 @@ Veranstalter: Heinrich-Heine-Institut, Heinrich-Heine-Gesellschaft und Maxhaus</
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Helmut </ns:NamePart>
-                    <ns:NamePart>Götzinger</ns:NamePart>
+                    <ns:NamePart>Heinrich </ns:NamePart>
+                    <ns:NamePart>Heine</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Ursula </ns:NamePart>
                     <ns:NamePart>Roth</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Heinrich </ns:NamePart>
-                    <ns:NamePart>Heine</ns:NamePart>
+                    <ns:NamePart>Helmut </ns:NamePart>
+                    <ns:NamePart>Götzinger</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Karin </ns:NamePart>

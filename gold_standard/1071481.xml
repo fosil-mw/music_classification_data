@@ -3,7 +3,9 @@
     <ns:ID>100</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.829</ns:IsEventInterRaterAgreement>
     <ns:Paper xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>1071481</ns:ID>
         <ns:Type>1</ns:Type>
@@ -48,10 +50,10 @@
                     <ns:NamePart>Franck</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Mozart</ns:NamePart>
+                    <ns:NamePart>Beethoven</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Beethoven</ns:NamePart>
+                    <ns:NamePart>Mozart</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Debussy</ns:NamePart>

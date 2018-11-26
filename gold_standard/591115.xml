@@ -3,11 +3,13 @@
     <ns:ID>271</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.886</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>591115</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>316913</ns:ID>
+            <ns:ID>597653</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -124,6 +126,10 @@ Bitte 1/2 Std vor Konzertbeginn da sein, danach keine Platzgarantie</ns:Text>
             </ns:Interpreter>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Louisiana </ns:NamePart>
+                    <ns:NamePart>Red</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Albie </ns:NamePart>
                     <ns:NamePart>Donnelly</ns:NamePart>
                 </ns:Musician>
@@ -135,25 +141,20 @@ Bitte 1/2 Std vor Konzertbeginn da sein, danach keine Platzgarantie</ns:Text>
                     <ns:NamePart>Sugar </ns:NamePart>
                     <ns:NamePart>Blue</ns:NamePart>
                 </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Louisiana </ns:NamePart>
-                    <ns:NamePart>Red</ns:NamePart>
-                </ns:Musician>
             </ns:Musician>
             <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Producer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>John </ns:NamePart>
-                    <ns:NamePart>Kirkbride</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Eric </ns:NamePart>
                     <ns:NamePart>Clapton</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Chuck </ns:NamePart>
-                    <ns:NamePart>Leavell</ns:NamePart>
+                    <ns:NamePart>Ferdl </ns:NamePart>
+                    <ns:NamePart>Eichner</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>John</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>King</ns:NamePart>
@@ -163,11 +164,12 @@ Bitte 1/2 Std vor Konzertbeginn da sein, danach keine Platzgarantie</ns:Text>
                     <ns:NamePart>Mayall</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>John</ns:NamePart>
+                    <ns:NamePart>Chuck </ns:NamePart>
+                    <ns:NamePart>Leavell</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Ferdl </ns:NamePart>
-                    <ns:NamePart>Eichner</ns:NamePart>
+                    <ns:NamePart>John </ns:NamePart>
+                    <ns:NamePart>Kirkbride</ns:NamePart>
                 </ns:Musician>
             </ns:Singer>
             <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

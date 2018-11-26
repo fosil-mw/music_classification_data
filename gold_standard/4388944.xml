@@ -3,11 +3,13 @@
     <ns:ID>341</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.943</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.943</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>4388944</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>497961</ns:ID>
+            <ns:ID>565558</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -144,18 +146,18 @@ Eintritt frei, es wird gesammelt.</ns:Text>
             <ns:ChoreoGrapher xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Dramatist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Federico </ns:NamePart>
+                    <ns:NamePart>Garc</ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Lorca</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Dales </ns:NamePart>
                     <ns:NamePart>Wassermann</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Bert </ns:NamePart>
                     <ns:NamePart>Brecht</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Federico </ns:NamePart>
-                    <ns:NamePart>Garc</ns:NamePart>
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Lorca</ns:NamePart>
                 </ns:Musician>
             </ns:Dramatist>
             <ns:Director xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

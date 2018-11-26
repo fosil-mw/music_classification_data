@@ -3,11 +3,13 @@
     <ns:ID>438</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>1325043</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>711172</ns:ID>
+            <ns:ID>752695</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -156,20 +158,20 @@ Fotoanhang: Mike Donkers (© Marionfotografie)</ns:Text>
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Angelika </ns:NamePart>
-                    <ns:NamePart>Lahr</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Frederik </ns:NamePart>
-                    <ns:NamePart>Lahr</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Petra </ns:NamePart>
                     <ns:NamePart>Kirsten</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Mike </ns:NamePart>
                     <ns:NamePart>Kossak</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Angelika </ns:NamePart>
+                    <ns:NamePart>Lahr</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Frederik </ns:NamePart>
+                    <ns:NamePart>Lahr</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Dieter </ns:NamePart>

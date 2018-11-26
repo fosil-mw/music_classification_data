@@ -3,11 +3,13 @@
     <ns:ID>33</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>1752581</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>417654</ns:ID>
+            <ns:ID>747575</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -115,12 +117,12 @@ Kartenreservierung und Vorverkauf in Tom’s Cafe unter 09402 9302 44</ns:Text>
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Manuela </ns:NamePart>
-                    <ns:NamePart>Spitzkopf</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Martin </ns:NamePart>
                     <ns:NamePart>Popp</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Manuela </ns:NamePart>
+                    <ns:NamePart>Spitzkopf</ns:NamePart>
                 </ns:Musician>
             </ns:Musician>
             <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

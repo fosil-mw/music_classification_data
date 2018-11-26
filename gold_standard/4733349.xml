@@ -3,11 +3,13 @@
     <ns:ID>283</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.971</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>4733349</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>323260</ns:ID>
+            <ns:ID>442978</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -118,12 +120,12 @@ Ihr dürft also nicht fehlen, wenn wir die volle Ladung Snap!, Dr. Alban,Whitney
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Shaggy</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Dr</ns:NamePart>
                     <ns:NamePart> </ns:NamePart>
                     <ns:NamePart>Alban</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Shaggy</ns:NamePart>
                 </ns:Musician>
             </ns:Musician>
             <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -134,18 +136,18 @@ Ihr dürft also nicht fehlen, wenn wir die volle Ladung Snap!, Dr. Alban,Whitney
             </ns:Producer>
             <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Coolio</ns:NamePart>
+                    <ns:NamePart>MC </ns:NamePart>
+                    <ns:NamePart>Hammer</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Whitney </ns:NamePart>
                     <ns:NamePart>Houston</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>MC </ns:NamePart>
-                    <ns:NamePart>Hammer</ns:NamePart>
+                    <ns:NamePart>Haddaway</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Haddaway</ns:NamePart>
+                    <ns:NamePart>Coolio</ns:NamePart>
                 </ns:Musician>
             </ns:Singer>
             <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

@@ -3,7 +3,9 @@
     <ns:ID>407</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.914</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.886</ns:IsEventInterRaterAgreement>
     <ns:Paper xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>68186</ns:ID>
         <ns:Type>1</ns:Type>

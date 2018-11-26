@@ -3,11 +3,13 @@
     <ns:ID>238</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.857</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>2749116</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>468096</ns:ID>
+            <ns:ID>368840</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -124,20 +126,20 @@ Einleitung und Moderation: Silke Weitendorf und Ulrike Ostermeyer</ns:Text>
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Pia </ns:NamePart>
-                    <ns:NamePart>Ziefle</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Ulrike </ns:NamePart>
                     <ns:NamePart>Ostermeyer</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Silke </ns:NamePart>
-                    <ns:NamePart>Weitendorf</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Michel </ns:NamePart>
                     <ns:NamePart>Bergmann</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Pia </ns:NamePart>
+                    <ns:NamePart>Ziefle</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Silke </ns:NamePart>
+                    <ns:NamePart>Weitendorf</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

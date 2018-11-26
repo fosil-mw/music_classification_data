@@ -3,11 +3,13 @@
     <ns:ID>119</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.971</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>1711584</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>581316</ns:ID>
+            <ns:ID>431046</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -119,12 +121,12 @@ www.beethoven-orchester.de</ns:Text>
             <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Albrecht </ns:NamePart>
-                    <ns:NamePart>Mayer</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Markus </ns:NamePart>
                     <ns:NamePart>Groh</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Albrecht </ns:NamePart>
+                    <ns:NamePart>Mayer</ns:NamePart>
                 </ns:Musician>
             </ns:Interpreter>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -138,22 +140,8 @@ www.beethoven-orchester.de</ns:Text>
             <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Camille </ns:NamePart>
-                    <ns:NamePart>Saint-Sa</ns:NamePart>
-                    <ns:NamePart>ns</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Franz </ns:NamePart>
                     <ns:NamePart>Schubert</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Robert </ns:NamePart>
-                    <ns:NamePart>Schumann</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Ludwig </ns:NamePart>
-                    <ns:NamePart>van </ns:NamePart>
-                    <ns:NamePart>Beethoven</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Wolfgang </ns:NamePart>
@@ -161,8 +149,22 @@ www.beethoven-orchester.de</ns:Text>
                     <ns:NamePart>Mozart</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Ludwig </ns:NamePart>
+                    <ns:NamePart>van </ns:NamePart>
+                    <ns:NamePart>Beethoven</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Camille </ns:NamePart>
+                    <ns:NamePart>Saint-Sa</ns:NamePart>
+                    <ns:NamePart>ns</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Johannes </ns:NamePart>
                     <ns:NamePart>Brahms</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Robert </ns:NamePart>
+                    <ns:NamePart>Schumann</ns:NamePart>
                 </ns:Musician>
             </ns:Composer>
             <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

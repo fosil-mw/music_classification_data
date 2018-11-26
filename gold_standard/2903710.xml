@@ -3,11 +3,13 @@
     <ns:ID>153</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.943</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>2903710</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>490598</ns:ID>
+            <ns:ID>458654</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -145,23 +147,23 @@ Als Veranstalter_innen behalten wir uns vor, Personen, die rechtsextremen Partei
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Hans-Olaf </ns:NamePart>
-                    <ns:NamePart>Henkel</ns:NamePart>
+                    <ns:NamePart>Dirk </ns:NamePart>
+                    <ns:NamePart>Nockemann</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Deuflhard</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Dirk </ns:NamePart>
-                    <ns:NamePart>Nockemann</ns:NamePart>
+                    <ns:NamePart>Amelie </ns:NamePart>
+                    <ns:NamePart>Deuflhard</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Bernd </ns:NamePart>
                     <ns:NamePart>Lucke</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Amelie </ns:NamePart>
-                    <ns:NamePart>Deuflhard</ns:NamePart>
+                    <ns:NamePart>Hans-Olaf </ns:NamePart>
+                    <ns:NamePart>Henkel</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">

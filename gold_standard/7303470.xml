@@ -3,11 +3,13 @@
     <ns:ID>377</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>7303470</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>609749</ns:ID>
+            <ns:ID>690368</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -218,14 +220,6 @@ Aus Sicherheitsgründen ist das Ticket ein One-Way Ticket. Kein Wiedereinlass na
             <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>DJ </ns:NamePart>
-                    <ns:NamePart>Simme</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>DJ </ns:NamePart>
-                    <ns:NamePart>Em-Traxx</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Dj </ns:NamePart>
                     <ns:NamePart>Deluxe </ns:NamePart>
                     <ns:NamePart>von </ns:NamePart>
@@ -237,8 +231,16 @@ Aus Sicherheitsgründen ist das Ticket ein One-Way Ticket. Kein Wiedereinlass na
                     <ns:NamePart>STAR </ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>DJ </ns:NamePart>
+                    <ns:NamePart>Em-Traxx</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>DJ-Team </ns:NamePart>
                     <ns:NamePart>CaoX</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>DJ </ns:NamePart>
+                    <ns:NamePart>Simme</ns:NamePart>
                 </ns:Musician>
             </ns:DJ>
             <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -267,56 +269,56 @@ Aus Sicherheitsgründen ist das Ticket ein One-Way Ticket. Kein Wiedereinlass na
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Betty </ns:NamePart>
-                    <ns:NamePart>Firmke</ns:NamePart>
+                    <ns:NamePart>Pauli </ns:NamePart>
+                    <ns:NamePart>Drexel</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Vanessa </ns:NamePart>
+                    <ns:NamePart>Völk</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Lara </ns:NamePart>
                     <ns:NamePart>Knüttel</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Luisa </ns:NamePart>
-                    <ns:NamePart>Reiser</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Valentin </ns:NamePart>
                     <ns:NamePart>Zelz</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Patricia </ns:NamePart>
-                    <ns:NamePart>Kempf</ns:NamePart>
+                    <ns:NamePart>Betty </ns:NamePart>
+                    <ns:NamePart>Firmke</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Adrien </ns:NamePart>
-                    <ns:NamePart>Stapelfeldt</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Anna </ns:NamePart>
-                    <ns:NamePart>Nickl</ns:NamePart>
+                    <ns:NamePart>Luisa </ns:NamePart>
+                    <ns:NamePart>Reiser</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Moritz </ns:NamePart>
-                    <ns:NamePart>Grabmaier</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Pauli </ns:NamePart>
-                    <ns:NamePart>Drexel</ns:NamePart>
+                    <ns:NamePart>Röder</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Nico </ns:NamePart>
                     <ns:NamePart>Paiella</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Tim </ns:NamePart>
-                    <ns:NamePart>Seehüter</ns:NamePart>
+                    <ns:NamePart>Moritz </ns:NamePart>
+                    <ns:NamePart>Grabmaier</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Antonia </ns:NamePart>
                     <ns:NamePart>Schreittmiller</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Moritz </ns:NamePart>
-                    <ns:NamePart>Röder</ns:NamePart>
+                    <ns:NamePart>Anna </ns:NamePart>
+                    <ns:NamePart>Nickl</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Tim </ns:NamePart>
+                    <ns:NamePart>Seehüter</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Patricia </ns:NamePart>
+                    <ns:NamePart>Kempf</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Patrizia </ns:NamePart>
@@ -327,8 +329,8 @@ Aus Sicherheitsgründen ist das Ticket ein One-Way Ticket. Kein Wiedereinlass na
                     <ns:NamePart>Löffler</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Vanessa </ns:NamePart>
-                    <ns:NamePart>Völk</ns:NamePart>
+                    <ns:NamePart>Adrien </ns:NamePart>
+                    <ns:NamePart>Stapelfeldt</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Phillip </ns:NamePart>

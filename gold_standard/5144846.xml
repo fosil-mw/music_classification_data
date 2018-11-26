@@ -3,11 +3,13 @@
     <ns:ID>371</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.829</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>5144846</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>615496</ns:ID>
+            <ns:ID>741036</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -122,24 +124,6 @@ Sound Modus represents one of the most diverse accustic performances of CHB’s 
             </ns:Band>
             <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Endre </ns:NamePart>
-                    <ns:NamePart>Vazul </ns:NamePart>
-                    <ns:NamePart>ndli</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>ka </ns:NamePart>
-                    <ns:NamePart>Baksai</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Marcello </ns:NamePart>
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Busato</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Okuda </ns:NamePart>
-                    <ns:NamePart>Rieko</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart> </ns:NamePart>
                     <ns:NamePart>sz</ns:NamePart>
                     <ns:NamePart>ros</ns:NamePart>
@@ -149,9 +133,21 @@ Sound Modus represents one of the most diverse accustic performances of CHB’s 
                     <ns:NamePart>Rivera</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Ern</ns:NamePart>
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Hock</ns:NamePart>
+                    <ns:NamePart>ter </ns:NamePart>
+                    <ns:NamePart>Tornyai</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>ka </ns:NamePart>
+                    <ns:NamePart>Baksai</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Endre </ns:NamePart>
+                    <ns:NamePart>Vazul </ns:NamePart>
+                    <ns:NamePart>ndli</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>zsef </ns:NamePart>
+                    <ns:NamePart>cz</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Tam</ns:NamePart>
@@ -159,8 +155,8 @@ Sound Modus represents one of the most diverse accustic performances of CHB’s 
                     <ns:NamePart>nyi</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>zsef </ns:NamePart>
-                    <ns:NamePart>cz</ns:NamePart>
+                    <ns:NamePart>Okuda </ns:NamePart>
+                    <ns:NamePart>Rieko</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Ott</ns:NamePart>
@@ -169,8 +165,14 @@ Sound Modus represents one of the most diverse accustic performances of CHB’s 
                     <ns:NamePart>th</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>ter </ns:NamePart>
-                    <ns:NamePart>Tornyai</ns:NamePart>
+                    <ns:NamePart>Ern</ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Hock</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marcello </ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Busato</ns:NamePart>
                 </ns:Musician>
             </ns:BandMember>
             <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -180,13 +182,13 @@ Sound Modus represents one of the most diverse accustic performances of CHB’s 
             <ns:Comedian xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Conductor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Jean-Paul </ns:NamePart>
-                    <ns:NamePart>Bourelly</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Ren</ns:NamePart>
                     <ns:NamePart> </ns:NamePart>
                     <ns:NamePart>Baker</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jean-Paul </ns:NamePart>
+                    <ns:NamePart>Bourelly</ns:NamePart>
                 </ns:Musician>
             </ns:Conductor>
             <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

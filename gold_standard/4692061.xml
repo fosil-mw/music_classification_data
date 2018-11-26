@@ -3,11 +3,13 @@
     <ns:ID>94</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>0</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>4692061</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>767465</ns:ID>
+            <ns:ID>429821</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -127,14 +129,14 @@ Der ebenso pedantische wie erfolgreiche Geschäftsmann Peter Weingarten lebt zus
                     <ns:NamePart>Paso</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Sabine</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Klaus</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Peter </ns:NamePart>
                     <ns:NamePart>Weingarten</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Sabine</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

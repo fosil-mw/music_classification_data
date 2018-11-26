@@ -3,11 +3,13 @@
     <ns:ID>358</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.971</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>2221730</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>717765</ns:ID>
+            <ns:ID>567656</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -121,24 +123,24 @@ Das Programm umfasst Songs von Cole Porter (“I Get a Kick Out of You”, “My
             <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Gabriela </ns:NamePart>
-                    <ns:NamePart>Kuhn</ns:NamePart>
+                    <ns:NamePart>Heinz </ns:NamePart>
+                    <ns:NamePart>Hox</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Andy </ns:NamePart>
                     <ns:NamePart>Pilger</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Markus </ns:NamePart>
-                    <ns:NamePart>Bartelt</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Debra </ns:NamePart>
                     <ns:NamePart>Hays</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Heinz </ns:NamePart>
-                    <ns:NamePart>Hox</ns:NamePart>
+                    <ns:NamePart>Markus </ns:NamePart>
+                    <ns:NamePart>Bartelt</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Gabriela </ns:NamePart>
+                    <ns:NamePart>Kuhn</ns:NamePart>
                 </ns:Musician>
             </ns:Interpreter>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -147,11 +149,11 @@ Das Programm umfasst Songs von Cole Porter (“I Get a Kick Out of You”, “My
             <ns:Singer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Susanne </ns:NamePart>
-                    <ns:NamePart>Seefig</ns:NamePart>
+                    <ns:NamePart>Seefing</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Susanne </ns:NamePart>
-                    <ns:NamePart>Seefing</ns:NamePart>
+                    <ns:NamePart>Seefig</ns:NamePart>
                 </ns:Musician>
             </ns:Singer>
             <ns:Soloist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -170,12 +172,12 @@ Das Programm umfasst Songs von Cole Porter (“I Get a Kick Out of You”, “My
                     <ns:NamePart>Monroes</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Marlene </ns:NamePart>
-                    <ns:NamePart>Dietrich</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Harold </ns:NamePart>
                     <ns:NamePart>Arlen</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marlene </ns:NamePart>
+                    <ns:NamePart>Dietrich</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Cole </ns:NamePart>

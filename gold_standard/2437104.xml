@@ -3,11 +3,13 @@
     <ns:ID>234</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.886</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>2437104</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>515232</ns:ID>
+            <ns:ID>548133</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -156,12 +158,8 @@ hkw.de/tickets</ns:Text>
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Keiko </ns:NamePart>
-                    <ns:NamePart>Sei</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Tom </ns:NamePart>
-                    <ns:NamePart>Trevatt</ns:NamePart>
+                    <ns:NamePart>Maurizio </ns:NamePart>
+                    <ns:NamePart>Lazzarato</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Christopher </ns:NamePart>
@@ -169,13 +167,16 @@ hkw.de/tickets</ns:Text>
                     <ns:NamePart>Thomas</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Franco </ns:NamePart>
-                    <ns:NamePart>Berardi </ns:NamePart>
-                    <ns:NamePart>Bifo</ns:NamePart>
+                    <ns:NamePart>Tom </ns:NamePart>
+                    <ns:NamePart>Trevatt</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Arianna </ns:NamePart>
-                    <ns:NamePart>Bove</ns:NamePart>
+                    <ns:NamePart>Keiko </ns:NamePart>
+                    <ns:NamePart>Sei</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Qiu </ns:NamePart>
+                    <ns:NamePart>Zhijie</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Neil </ns:NamePart>
@@ -183,16 +184,17 @@ hkw.de/tickets</ns:Text>
                     <ns:NamePart>Kempinski</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Arianna </ns:NamePart>
+                    <ns:NamePart>Bove</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Franco </ns:NamePart>
+                    <ns:NamePart>Berardi </ns:NamePart>
+                    <ns:NamePart>Bifo</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Stefan </ns:NamePart>
                     <ns:NamePart>Nowotny</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Qiu </ns:NamePart>
-                    <ns:NamePart>Zhijie</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Maurizio </ns:NamePart>
-                    <ns:NamePart>Lazzarato</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

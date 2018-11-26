@@ -3,11 +3,13 @@
     <ns:ID>77</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.943</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>979011</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>489931</ns:ID>
+            <ns:ID>506043</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -138,10 +140,6 @@ The talks are given at the University of Paderborn in room: E5.333</ns:Text>
             <ns:Drama xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Sandra </ns:NamePart>
-                    <ns:NamePart>Glammeier</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Jarmila </ns:NamePart>
                     <ns:NamePart>Mildorf</ns:NamePart>
                 </ns:Person>
@@ -149,6 +147,10 @@ The talks are given at the University of Paderborn in room: E5.333</ns:Text>
                     <ns:NamePart>Elisabeth </ns:NamePart>
                     <ns:NamePart>De </ns:NamePart>
                     <ns:NamePart>Sotelo</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Sandra </ns:NamePart>
+                    <ns:NamePart>Glammeier</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">

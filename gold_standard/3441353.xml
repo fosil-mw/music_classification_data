@@ -3,11 +3,13 @@
     <ns:ID>130</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>3441353</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>730005</ns:ID>
+            <ns:ID>443493</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -160,20 +162,20 @@ http://www.livefactory-adelsheim.de/index.php?id=28</ns:Text>
             <ns:Dancer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:DJ xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Nicky </ns:NamePart>
-                    <ns:NamePart>Blackmarket</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>RC </ns:NamePart>
                     <ns:NamePart>Germany </ns:NamePart>
                     <ns:NamePart>Academy </ns:NamePart>
                     <ns:NamePart>Winner</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>MR </ns:NamePart>
+                    <ns:NamePart>OKEY</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>OKEY</ns:NamePart>
+                    <ns:NamePart>Nicky </ns:NamePart>
+                    <ns:NamePart>Blackmarket</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>MR </ns:NamePart>
                 </ns:Musician>
             </ns:DJ>
             <ns:GleeClub xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -181,11 +183,11 @@ http://www.livefactory-adelsheim.de/index.php?id=28</ns:Text>
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>SHG</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>DUB </ns:NamePart>
                     <ns:NamePart>FLAVOUR</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>SHG</ns:NamePart>
                 </ns:Musician>
             </ns:Musician>
             <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

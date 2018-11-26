@@ -3,11 +3,13 @@
     <ns:ID>258</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.943</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.886</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>944765</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>753329</ns:ID>
+            <ns:ID>387864</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -112,31 +114,31 @@ Ein Programm mit geistlichen und weltlichen Kompositionen aus Sachsen sowie dem 
             <ns:Cantor xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Composer xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>la </ns:NamePart>
-                    <ns:NamePart>Bart</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Leo</ns:NamePart>
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Jan</ns:NamePart>
-                    <ns:NamePart>cek</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Arvo </ns:NamePart>
                     <ns:NamePart>Pärt</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Johann </ns:NamePart>
-                    <ns:NamePart>Walter</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Krysztof </ns:NamePart>
                     <ns:NamePart>Penderecki</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>la </ns:NamePart>
+                    <ns:NamePart>Bart</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Johann </ns:NamePart>
+                    <ns:NamePart>Walter</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Johann </ns:NamePart>
                     <ns:NamePart>Sebastian </ns:NamePart>
                     <ns:NamePart>Bach</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Leo</ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Jan</ns:NamePart>
+                    <ns:NamePart>cek</ns:NamePart>
                 </ns:Musician>
             </ns:Composer>
             <ns:Guitarist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

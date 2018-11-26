@@ -3,11 +3,13 @@
     <ns:ID>171</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>4536827</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>751578</ns:ID>
+            <ns:ID>475030</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -138,17 +140,12 @@ Für die Teilnahme an wird zusätzlich zum regulären Eintrittspreis (9 €/erm.
                     <ns:NamePart>Kelley</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Lynn </ns:NamePart>
-                    <ns:NamePart>Hershman </ns:NamePart>
-                    <ns:NamePart>Leeson</ns:NamePart>
+                    <ns:NamePart>Laurie </ns:NamePart>
+                    <ns:NamePart>Simmons</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Cindy </ns:NamePart>
                     <ns:NamePart>Sherman</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Laurie </ns:NamePart>
-                    <ns:NamePart>Simmons</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Sophie </ns:NamePart>
@@ -157,6 +154,11 @@ Für die Teilnahme an wird zusätzlich zum regulären Eintrittspreis (9 €/erm.
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Paul </ns:NamePart>
                     <ns:NamePart>Thek</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Lynn </ns:NamePart>
+                    <ns:NamePart>Hershman </ns:NamePart>
+                    <ns:NamePart>Leeson</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

@@ -3,7 +3,9 @@
     <ns:ID>257</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:Paper xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>2033668</ns:ID>
         <ns:Type>1</ns:Type>
@@ -26,11 +28,11 @@
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Gil </ns:NamePart>
-                    <ns:NamePart>Shaham</ns:NamePart>
+                    <ns:NamePart>Shahams</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Gil </ns:NamePart>
-                    <ns:NamePart>Shahams</ns:NamePart>
+                    <ns:NamePart>Shaham</ns:NamePart>
                 </ns:Musician>
             </ns:Interpreter>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

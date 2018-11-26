@@ -3,11 +3,13 @@
     <ns:ID>99</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>1.</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>6568016</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>377401</ns:ID>
+            <ns:ID>662748</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -114,8 +116,17 @@ Termine: 1.4.2017 Lübeck / Casino
             </ns:Band>
             <ns:BandMember xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Gene </ns:NamePart>
-                    <ns:NamePart>Black</ns:NamePart>
+                    <ns:NamePart>Laura </ns:NamePart>
+                    <ns:NamePart>Jane </ns:NamePart>
+                    <ns:NamePart>Jones</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jack </ns:NamePart>
+                    <ns:NamePart>Bruno</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Joe </ns:NamePart>
+                    <ns:NamePart>Cocker</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Warren </ns:NamePart>
@@ -123,30 +134,21 @@ Termine: 1.4.2017 Lübeck / Casino
                     <ns:NamePart>Rae</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Jack </ns:NamePart>
-                    <ns:NamePart>Bruno</ns:NamePart>
+                    <ns:NamePart>Nick </ns:NamePart>
+                    <ns:NamePart>Milo </ns:NamePart>
+                    <ns:NamePart>Tito</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Karla </ns:NamePart>
-                    <ns:NamePart>Britz</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Joe </ns:NamePart>
-                    <ns:NamePart>Cocker</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Laura </ns:NamePart>
-                    <ns:NamePart>Jane </ns:NamePart>
-                    <ns:NamePart>Jones</ns:NamePart>
+                    <ns:NamePart>Gene </ns:NamePart>
+                    <ns:NamePart>Black</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Norberto </ns:NamePart>
                     <ns:NamePart>Tilman</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Nick </ns:NamePart>
-                    <ns:NamePart>Milo </ns:NamePart>
-                    <ns:NamePart>Tito</ns:NamePart>
+                    <ns:NamePart>Karla </ns:NamePart>
+                    <ns:NamePart>Britz</ns:NamePart>
                 </ns:Musician>
             </ns:BandMember>
             <ns:Bandleader xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
@@ -162,28 +164,28 @@ Termine: 1.4.2017 Lübeck / Casino
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Zuzana </ns:NamePart>
-                    <ns:NamePart>Martenkova</ns:NamePart>
+                    <ns:NamePart>Borek </ns:NamePart>
+                    <ns:NamePart>Tvrznik</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Jakub </ns:NamePart>
-                    <ns:NamePart>Tvrznik</ns:NamePart>
+                    <ns:NamePart>Zuzana </ns:NamePart>
+                    <ns:NamePart>Martenkova</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Stepan </ns:NamePart>
                     <ns:NamePart>Podrazil</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Terinka </ns:NamePart>
-                    <ns:NamePart>Tvrznikova</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Borek </ns:NamePart>
+                    <ns:NamePart>Jakub </ns:NamePart>
                     <ns:NamePart>Tvrznik</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Zdenek </ns:NamePart>
                     <ns:NamePart>Kopriva</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Terinka </ns:NamePart>
+                    <ns:NamePart>Tvrznikova</ns:NamePart>
                 </ns:Musician>
             </ns:Musician>
             <ns:Organist xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>

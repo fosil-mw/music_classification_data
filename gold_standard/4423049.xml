@@ -3,11 +3,13 @@
     <ns:ID>61</ns:ID>
     <ns:Relevance>0</ns:Relevance>
     <ns:IsMusic>0</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.829</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>0.914</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>4423049</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>366938</ns:ID>
+            <ns:ID>476499</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -178,28 +180,9 @@ The date will be announced shortly</ns:Text>
                     <ns:NamePart>Brunnhuber</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Marcus </ns:NamePart>
-                    <ns:NamePart>Steinweg</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Stephan </ns:NamePart>
-                    <ns:NamePart>Dillemuth</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Anne </ns:NamePart>
-                    <ns:NamePart>Speier</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Isabelle </ns:NamePart>
-                    <ns:NamePart>Fein</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Henning </ns:NamePart>
-                    <ns:NamePart>Bohl</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Chris </ns:NamePart>
-                    <ns:NamePart>Kraus</ns:NamePart>
+                    <ns:NamePart>Bernd </ns:NamePart>
+                    <ns:NamePart> </ns:NamePart>
+                    <ns:NamePart>Plake</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Frances </ns:NamePart>
@@ -210,25 +193,8 @@ The date will be announced shortly</ns:Text>
                     <ns:NamePart>Gurk</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>James </ns:NamePart>
-                    <ns:NamePart>Meyer</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Bernd </ns:NamePart>
-                    <ns:NamePart> </ns:NamePart>
-                    <ns:NamePart>Plake</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Raphaela </ns:NamePart>
-                    <ns:NamePart>Vogel</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Anna </ns:NamePart>
-                    <ns:NamePart>Prinz</ns:NamePart>
-                </ns:Person>
-                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Jutta </ns:NamePart>
-                    <ns:NamePart>Koether</ns:NamePart>
+                    <ns:NamePart>Stephan </ns:NamePart>
+                    <ns:NamePart>Dillemuth</ns:NamePart>
                 </ns:Person>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Helmut </ns:NamePart>
@@ -237,6 +203,42 @@ The date will be announced shortly</ns:Text>
                 <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Andreas </ns:NamePart>
                     <ns:NamePart>Peschka</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Anna </ns:NamePart>
+                    <ns:NamePart>Prinz</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Henning </ns:NamePart>
+                    <ns:NamePart>Bohl</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Chris </ns:NamePart>
+                    <ns:NamePart>Kraus</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Marcus </ns:NamePart>
+                    <ns:NamePart>Steinweg</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Raphaela </ns:NamePart>
+                    <ns:NamePart>Vogel</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Anne </ns:NamePart>
+                    <ns:NamePart>Speier</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>James </ns:NamePart>
+                    <ns:NamePart>Meyer</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Jutta </ns:NamePart>
+                    <ns:NamePart>Koether</ns:NamePart>
+                </ns:Person>
+                <ns:Person xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Isabelle </ns:NamePart>
+                    <ns:NamePart>Fein</ns:NamePart>
                 </ns:Person>
             </ns:Person>
             <ns:Locality xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">

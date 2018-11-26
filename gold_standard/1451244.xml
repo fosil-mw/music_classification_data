@@ -3,11 +3,13 @@
     <ns:ID>109</ns:ID>
     <ns:Relevance>1</ns:Relevance>
     <ns:IsMusic>1</ns:IsMusic>
+    <ns:IsMusicInterRaterAgreement>0.971</ns:IsMusicInterRaterAgreement>
     <ns:IsEvent>1</ns:IsEvent>
+    <ns:IsEventInterRaterAgreement>1.</ns:IsEventInterRaterAgreement>
     <ns:FaceBook xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
         <ns:ID>1451244</ns:ID>
         <ns:Document xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-            <ns:ID>772939</ns:ID>
+            <ns:ID>485258</ns:ID>
             <ns:Source xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:ID>672</ns:ID>
                 <ns:AllSourceKeys>facebook_bd_do facebook</ns:AllSourceKeys>
@@ -118,6 +120,14 @@ Eintritt: 15,- / 10,- *1
             <ns:Group xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
             <ns:Interpreter xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Chris </ns:NamePart>
+                    <ns:NamePart>Bullock</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
+                    <ns:NamePart>Mike </ns:NamePart>
+                    <ns:NamePart>Harrison</ns:NamePart>
+                </ns:Musician>
+                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Michael </ns:NamePart>
                     <ns:NamePart>League</ns:NamePart>
                 </ns:Musician>
@@ -126,32 +136,24 @@ Eintritt: 15,- / 10,- *1
                     <ns:NamePart>Lanzetti</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Mike </ns:NamePart>
-                    <ns:NamePart>Maher</ns:NamePart>
+                    <ns:NamePart>Larnell </ns:NamePart>
+                    <ns:NamePart>Lewis</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Bill </ns:NamePart>
                     <ns:NamePart>Laurance</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Justin </ns:NamePart>
-                    <ns:NamePart>Stanton</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Larnell </ns:NamePart>
-                    <ns:NamePart>Lewis</ns:NamePart>
+                    <ns:NamePart>Mike </ns:NamePart>
+                    <ns:NamePart>Maher</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
                     <ns:NamePart>Nate </ns:NamePart>
                     <ns:NamePart>Werth</ns:NamePart>
                 </ns:Musician>
                 <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Chris </ns:NamePart>
-                    <ns:NamePart>Bullock</ns:NamePart>
-                </ns:Musician>
-                <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema">
-                    <ns:NamePart>Mike </ns:NamePart>
-                    <ns:NamePart>Harrison</ns:NamePart>
+                    <ns:NamePart>Justin </ns:NamePart>
+                    <ns:NamePart>Stanton</ns:NamePart>
                 </ns:Musician>
             </ns:Interpreter>
             <ns:Musician xmlns:ns="http://www.bioforscher.de/recam/goldstandard/CueSchema"/>
